@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build artifacts
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Temporary and log files
+*.tmp
+*.log
